@@ -20,3 +20,4 @@ public class Runner{
 		boolean perfectSquare(int x);
 	}
 }
+//I learned the process of working with a repository in Git Kraken and how to merge file and work with others on Git processes
